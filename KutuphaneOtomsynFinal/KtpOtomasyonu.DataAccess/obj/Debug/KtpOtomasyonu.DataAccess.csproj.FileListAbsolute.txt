@@ -1,0 +1,60 @@
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.DataAccess.dll.config
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.DataAccess.dll
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.DataAccess.pdb
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.csproj.CopyComplete
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.dll
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.pdb
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.DataAccess.dll.config
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.DataAccess.dll
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.DataAccess.pdb
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.csproj.CopyComplete
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.dll
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.pdb
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.Migrations.mig2.resources
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.csproj.GenerateResource.cache
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.Entites.dll
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.Entites.pdb
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.DataAccess.dll.config
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.DataAccess.dll
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.DataAccess.pdb
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.Entites.dll
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.Entites.pdb
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.Migrations.mig2.resources
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.csproj.GenerateResource.cache
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.csproj.CopyComplete
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.dll
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.pdb
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.DataAccess.dll.config
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.DataAccess.dll
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.DataAccess.pdb
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\EntityFramework.dll
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.Entites.dll
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\KtpOtomasyonu.Entites.pdb
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\EntityFramework.xml
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.csproj.AssemblyReference.cache
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.Migrations.mig2.resources
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.csproj.GenerateResource.cache
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.csproj.CoreCompileInputs.cache
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.csproj.CopyComplete
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.dll
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.DataAccess\obj\Debug\KtpOtomasyonu.DataAccess.pdb

@@ -1,0 +1,179 @@
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csprojAssemblyReference.cache
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormAdminAnasayfa.resources
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormEmanetIslemleri.resources
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormFirstScreen.resources
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormGirisYap.resources
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormKategoriEkle.resources
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormKitapIslemleri.resources
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormProfilAyarlari.resources
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeAnasayfa.resources
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeIadeEt.resources
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeIslemleri.resources
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeUzerimdekiler.resources
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormYetkiliIslemleri.resources
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.Properties.Resources.resources
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.GenerateResource.cache
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.CoreCompileInputs.cache
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormPersonelAnasayfa.resources
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormFirstKitapScreen.resources
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.exe.config
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.exe
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.pdb
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\bin\Debug\Kutuphane.dll
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\bin\Debug\Kutuphane.pdb
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.CopyComplete
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.exe
+C:\Users\ÖmerPC\source\repos\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.pdb
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormAdminAnasayfa.resources
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormEmanetIslemleri.resources
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormFirstKitapScreen.resources
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormFirstScreen.resources
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormGirisYap.resources
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormKategoriEkle.resources
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormKitapIslemleri.resources
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormPersonelAnasayfa.resources
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormProfilAyarlari.resources
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeAnasayfa.resources
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeIadeEt.resources
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeIslemleri.resources
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeUzerimdekiler.resources
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormYetkiliIslemleri.resources
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.Properties.Resources.resources
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.GenerateResource.cache
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.CoreCompileInputs.cache
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.exe
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.pdb
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.exe.config
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.exe
+E:\Annem Telf. Resim\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.pdb
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.exe.config
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.exe
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.pdb
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormAdminAnasayfa.resources
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormEmanetIslemleri.resources
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormFirstKitapScreen.resources
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormGirisYap.resources
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormKitapIslemleri.resources
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormPersonelAnasayfa.resources
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormProfilAyarlari.resources
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeAnasayfa.resources
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeIadeEt.resources
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeIslemleri.resources
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeUzerimdekiler.resources
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormYetkiliIslemleri.resources
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.Properties.Resources.resources
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.GenerateResource.cache
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.CoreCompileInputs.cache
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.exe
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.pdb
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.sifremiunuttum.resources
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csprojAssemblyReference.cache
+C:\Users\ÖmerPC\Desktop\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormPersonelIslemleri.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csprojAssemblyReference.cache
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormAdminAnasayfa.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormEmanetIslemleri.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormFirstKitapScreen.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormGirisYap.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormKitapIslemleri.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormPersonelAnasayfa.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormPersonelIslemleri.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormProfilAyarlari.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeAnasayfa.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeIadeEt.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeIslemleri.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeUzerimdekiler.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormYetkiliIslemleri.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.Properties.Resources.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.sifremiunuttum.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.GenerateResource.cache
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.CoreCompileInputs.cache
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.exe
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.pdb
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.exe.config
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.exe
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.pdb
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormProfilAyarlariPersonel.resources
+E:\DÜZCE Üni. NOTLAR\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormProfilAyarlariUye.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.exe.config
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.exe
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.pdb
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.AssemblyReference.cache
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormAdminAnasayfa.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormEmanetIslemleri.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormFirstKitapScreen.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormGirisYap.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormKitapIslemleri.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormPersonelAnasayfa.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormPersonelIslemleri.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormProfilAyarlari.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormProfilAyarlariPersonel.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormProfilAyarlariUye.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeAnasayfa.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeIadeEt.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeIslemleri.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeUzerimdekiler.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormYetkiliIslemleri.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.Properties.Resources.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.sifremiunuttum.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.GenerateResource.cache
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.exe
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.pdb
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KtpOtomasyonu.DataAccess.dll
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KtpOtomasyonu.DataAccess.pdb
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KtpOtomasyonu.DataAccess.dll.config
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\EntityFramework.xml
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.Form1.resources
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.CopyComplete
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\EntityFramework.dll
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Huawei\Downloads\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.exe
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.pdb
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.AssemblyReference.cache
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.exe.config
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.exe
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KutuphaneOtomsynFinal.pdb
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\EntityFramework.dll
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KtpOtomasyonu.DataAccess.dll
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KtpOtomasyonu.Entites.dll
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KtpOtomasyonu.DataAccess.pdb
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KtpOtomasyonu.DataAccess.dll.config
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KtpOtomasyonu.Entites.pdb
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\EntityFramework.xml
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.AssemblyReference.cache
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.Form1.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormAdminAnasayfa.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormEmanetIslemleri.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormFirstKitapScreen.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormGirisYap.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormKitapIslemleri.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormPersonelAnasayfa.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormPersonelIslemleri.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormProfilAyarlari.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormProfilAyarlariPersonel.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormProfilAyarlariUye.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeAnasayfa.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeIadeEt.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeIslemleri.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormUyeUzerimdekiler.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.FormYetkiliIslemleri.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.Properties.Resources.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.sifremiunuttum.resources
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.GenerateResource.cache
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.CoreCompileInputs.cache
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.csproj.CopyComplete
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.exe
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.pdb
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.exe
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.pdb
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\FormYetkiliIslemleri.resx
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\FormYetkiliIslemleri.cs
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\FormYetkiliIslemleri.Designer.cs
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KtpOtomasyonu.Business.dll
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KtpOtomasyonu.Business.pdb
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\bin\Debug\KtpOtomasyonu.Business.dll.config
+C:\KutuphaneOtomsynFinal\KutuphaneOtomsynFinal\obj\Debug\KutuphaneOtomsynFinal.KullaniciIslemleri.LoginPage.resources

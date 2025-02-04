@@ -1,0 +1,18 @@
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\bin\Debug\KtpOtomasyonu.Entites.dll
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\bin\Debug\KtpOtomasyonu.Entites.pdb
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\obj\Debug\KtpOtomasyonu.Entites.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\obj\Debug\KtpOtomasyonu.Entites.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\obj\Debug\KtpOtomasyonu.Entites.dll
+C:\Users\Huawei\OneDrive\Projeler\Kütüphane Otomasyonu\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\obj\Debug\KtpOtomasyonu.Entites.pdb
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\bin\Debug\KtpOtomasyonu.Entites.dll
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\bin\Debug\KtpOtomasyonu.Entites.pdb
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\obj\Debug\KtpOtomasyonu.Entites.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\obj\Debug\KtpOtomasyonu.Entites.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\obj\Debug\KtpOtomasyonu.Entites.dll
+C:\Users\Huawei\OneDrive\Masaüstü\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\obj\Debug\KtpOtomasyonu.Entites.pdb
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\bin\Debug\KtpOtomasyonu.Entites.dll
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\bin\Debug\KtpOtomasyonu.Entites.pdb
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\obj\Debug\KtpOtomasyonu.Entites.csproj.AssemblyReference.cache
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\obj\Debug\KtpOtomasyonu.Entites.csproj.CoreCompileInputs.cache
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\obj\Debug\KtpOtomasyonu.Entites.dll
+C:\KutuphaneOtomsynFinal\KtpOtomasyonu.Entites\obj\Debug\KtpOtomasyonu.Entites.pdb
